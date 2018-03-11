@@ -1,0 +1,10 @@
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\bin\Debug\Login.exe
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\bin\Debug\Login.pdb
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\obj\Debug\Login.exe
+C:\Users\Orkhan Ismayilov\Desktop\Code Academy\2018\09.03.2018\Homework\Login\Login\obj\Debug\Login.pdb
